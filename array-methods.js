@@ -29,4 +29,4 @@ const specificName = products.filter(product => product.name.includes('n'));
 
 // 4. find 
 const special = products.find(p => p.name.includes('n'));
-console.log(special)
+// console.log(special)
